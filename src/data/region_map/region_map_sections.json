@@ -1628,16 +1628,15 @@
       "height": 1
     },
     {
-      "id": "MAPSEC_SANTA_ROSA_DE_LIMA",
-      "name": "SANTA ROSA DE LIMA"
-    },
-    {
       "id": "MAPSEC_ROUTE_201",
       "name": "ROUTE 201"
     },
     {
       "id": "MAPSEC_ROUTE_202",
       "name": "ROUTE 202"
+    },
+    {
+      "id": "MAPSEC_SANTA_ROSA"
     }
   ]
 }

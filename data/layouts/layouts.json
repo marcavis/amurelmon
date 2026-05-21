@@ -9335,14 +9335,14 @@
       "blockdata_filepath": "data/layouts/Route201/map.bin"
     },
     {
-      "id": "LAYOUT_SANTA_ROSA_DE_LIMA",
-      "name": "SantaRosaDeLima_Layout",
+      "id": "LAYOUT_SANTA_ROSA",
+      "name": "SantaRosa_Layout",
       "width": 16,
       "height": 28,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",
-      "border_filepath": "data/layouts/SantaRosaDeLima/border.bin",
-      "blockdata_filepath": "data/layouts/SantaRosaDeLima/map.bin"
+      "border_filepath": "data/layouts/SantaRosa/border.bin",
+      "blockdata_filepath": "data/layouts/SantaRosa/map.bin"
     },
     {
       "id": "LAYOUT_ROUTE202",

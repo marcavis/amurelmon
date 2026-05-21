@@ -1742,4 +1742,4 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/Route202/scripts.inc"
 
-	.include "data/maps/SantaRosaDeLima/scripts.inc"
+	.include "data/maps/SantaRosa/scripts.inc"

@@ -1888,7 +1888,7 @@ void CB2_NewGame(void)
     if (IS_FRLG)
         gFieldCallback = FieldCB_WarpExitFadeFromBlack;
     else
-        gFieldCallback = ExecuteTruckSequence;
+        gFieldCallback = NULL; // in Emerald it's ExecuteTruckSequence;
     gFieldCallback2 = NULL;
     DoMapLoadLoop(&gMain.state);
     SetFieldVBlankCallback();
