@@ -491,8 +491,8 @@
     {
       "id": "MAPSEC_ABANDONED_SHIP",
       "name": "ABANDONED SHIP",
-      "x": 6,
-      "y": 14,
+      "x": 8,
+      "y": 12,
       "width": 1,
       "height": 1
     },
@@ -1626,6 +1626,18 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_SANTA_ROSA_DE_LIMA",
+      "name": "SANTA ROSA DE LIMA"
+    },
+    {
+      "id": "MAPSEC_ROUTE_201",
+      "name": "ROUTE 201"
+    },
+    {
+      "id": "MAPSEC_ROUTE_202",
+      "name": "ROUTE 202"
     }
   ]
 }
